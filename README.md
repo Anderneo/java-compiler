@@ -17,7 +17,7 @@
   ### Features
   
   #### Lexical Analyzer
-  A class that defines a lexical parser. This class has a method called *nextToken*, wicth is responsible for processing the input, character by character, and return a valid token.
+  A class that defines a lexical parser. This class has a method called *nextToken*, which is responsible for processing the input, character by character, and then returning a valid token.
   
   **It must:**<br>
   * Read a string as input from a text file, identifying the following tokens:
