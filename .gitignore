@@ -1,0 +1,24 @@
+# Compiled Source #
+####################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and Databases #
+####################
+*.log
+*.sql
+*.sqlite
+
+# Binaries files #
+###################
+*.png
+*.jpg
+*.jpeg
+*.jpg2
+*.jp2
+*.gif
+*.pdf
