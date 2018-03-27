@@ -1,4 +1,4 @@
-package br.compiladores.projeto.compilador;
+
 public class Token{
 	private TokenType tokenType;
 	private String lexema;
